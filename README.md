@@ -1,0 +1,4 @@
+- 👋 Hi, I’m romkich09 (scripter#4863)
+- I an a Roblox LUA Developer
+- I’m currently learning C#
+- Heres a bit more: https://www.scripter.tk
